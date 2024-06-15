@@ -24,9 +24,13 @@
   flex-direction: column;
 }
 
+.ant-select {
+  background: transparent;
+}
+
 .ant-select-dropdown {
   color: white;
-  background: #FCE584;;
+  background: #FCE584;
 }
 
 .ant-select-selection-item {
