@@ -39,7 +39,7 @@ To get started with this project, follow the installation instructions below.
    npm start
    ```
 4. Open to view it in the browser:  
-<a href="https://github.com/Morifer79/kenya-counties/"><img src="https://badgen.net/badge/🌎 www:/Kenya counties/green?icon=browser" alt="Badge"/></a>  
+<a href="https://morifer79.github.io/kenya-counties/"><img src="https://badgen.net/badge/🌎 www:/Kenya counties/green?icon=browser" alt="Badge"/></a>  
 
 ## 𝔼𝕞𝕒𝕚𝕝 𝕞𝕖 ᎓
 Questions, suggestions, help:  
